@@ -1,0 +1,6 @@
+import socket
+import threading
+
+def handle_client(client_socket):
+
+#function reads data from the client, checks if its "Hello"
